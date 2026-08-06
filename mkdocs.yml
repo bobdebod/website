@@ -1,6 +1,10 @@
 site_name: Makers Bench
 site_url: https://makers-bench.ch
 
+nav:
+  - Home: index.md
+  - Our Journey: moving-toward-the-internet.md
+
 theme:
   name: material
   palette:
