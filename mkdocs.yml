@@ -1,4 +1,17 @@
 site_name: Makers Bench
 site_url: https://makers-bench.ch
+
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
