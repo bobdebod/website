@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Makers Bench
+site_url: https://makers-bench.ch
+theme:
+  name: material
